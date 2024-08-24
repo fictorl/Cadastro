@@ -5,7 +5,7 @@ class Formulario (
     val telefone: String,
     val email: String,
     val listaEmailCb: Boolean,
-    val sexo: Int,
+    val sexo: String,
     val cidade: String,
     val uf: String
 ){
